@@ -4,21 +4,21 @@ using namespace std;
 int main(){
 //string
 string name;
-cout<<"What is his name?";
+cout<<"What is your name?";
 cin>>name;
-cout<<"His name is "<<name<<endl;
+cout<<"My name is "<<name<<endl;
 
 //integer types
 int age;
-cout<<"What is his age?";
+cout<<"What is your age?";
 cin >>age;
-cout<<"His age is "<<age<<endl;
+cout<<"My age is "<<age<<endl;
 
 //integer value
 int weight;
-cout<<"What is his weight?";
+cout<<"What is your weight?";
 cin >>weight;
-cout<<"His weight is "<<weight<<endl;
+cout<<"My weight is "<<weight<<endl;
 
 
 //Character valeue
